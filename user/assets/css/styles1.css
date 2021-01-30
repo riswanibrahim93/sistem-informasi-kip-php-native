@@ -1,0 +1,37 @@
+body{
+	background-color: #076750;
+
+}
+
+#main{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 40px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	background-color: rgba(255,255,255,0.2);
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius:6px; 
+	margin-top: 150px;
+}
+img{
+	border: 2px darkgrey solid;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	margin-left: 110px;
+	position: absolute;
+	margin-top: -70px;
+	background-color: darkgrey;
+}
+
+form input{
+	margin: 5px;
+	padding: 5px;
+	border: 2px gold solid;
+	border-radius: 17px;
+	width: 200px;
+	margin-left: 40px;
+}
